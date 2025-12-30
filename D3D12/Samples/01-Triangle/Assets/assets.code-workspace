@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "Shaders"
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"antaalt.shader-validator"
+		]
+	}
+}
